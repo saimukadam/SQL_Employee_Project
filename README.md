@@ -155,7 +155,7 @@ FROM
 GROUP BY p.project_id , p.project_name
 ORDER BY total_employees DESC
 LIMIT 1;
---------------------------------------------------------
+
 Author-:
 Sai Mukadam
 Final Year BCA Student | Aspiring Data Analyst
